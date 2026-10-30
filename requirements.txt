@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-redis
+pypdf
+chromadb
+numpy
+requests
+redis
+sentence-transformers
+langchain-tavily
